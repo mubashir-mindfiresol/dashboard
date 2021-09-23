@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dashboard-198b3": {
+      "hosting": {
+        "dashboard": [
+          "dashboard-198b3"
+        ]
+      }
+    }
+  }
+}
